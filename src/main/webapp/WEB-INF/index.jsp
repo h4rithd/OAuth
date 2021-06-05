@@ -59,7 +59,7 @@ h3 {
 // Define properties
             var AUTH_ENDPOINT = "https://www.facebook.com/dialog/oauth";
             var RESPONSE_TYPE = "code";
-            var CLIENT_ID = "226607424740444";
+            var CLIENT_ID = "xxxxxx";
             var REDIRECT_URI = "https://localhost:8443/facebookapp/callback";
             var SCOPE = "public_profile user_posts user_friends user_photos publish_actions";
 // Build authorization request endpoint
