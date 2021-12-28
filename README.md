@@ -1,4 +1,4 @@
-# Introduction-to-OAuth
+# Introduction to OAuth
 ### Introduction to OAuth by using Facebook OAuth 2.0v
 
 Once you download/clone this project, you wish to change the subsequent 2 files.
